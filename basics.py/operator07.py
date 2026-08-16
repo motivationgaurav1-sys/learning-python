@@ -1,0 +1,10 @@
+#learn how to use relational and logical operators.
+print(4>5)
+print(not 3>4)
+print(5>4)
+print(6>5>6)
+print(3>0 and 4>0)
+print(5>0 or 3>0)
+print(5>10 and 4>0)
+print(3>10 or 4>0)
+print(5>4>2)
