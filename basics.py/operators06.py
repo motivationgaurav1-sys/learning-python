@@ -9,3 +9,6 @@ print(3/4)
 print(10/2) #when it is fully divided it will no answer like 5 it will always answer in float form like 5.0 instead of 5.
 print(5/8)
 print(32/11)
+print(5//5)
+print(5%5)
+print(a*b)
