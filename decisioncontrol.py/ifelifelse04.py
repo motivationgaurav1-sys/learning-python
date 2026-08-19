@@ -13,4 +13,4 @@ elif 60<x<=70:
 elif 50<=x<=60:
     print("E grade")
 else:
-    print("below 50")       
+    print("F grade")       
