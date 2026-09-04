@@ -17,7 +17,7 @@ print(a,b,c,sep="-",end="|")
 print("hello")
 
 
-import list35 #import file 
+#import list35 #import file 
 
 import keyword
 print(keyword.kwlist)
