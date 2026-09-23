@@ -1,7 +1,7 @@
 #Monthly Savings Predictor
 salary=30000
 monthly_expenses=18000
-expense_increase=monthly_expenses*5/100
+expense_increase=0
 months=int(input("Months: "))
 total_savings=0
 
