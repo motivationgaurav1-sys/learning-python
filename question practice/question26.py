@@ -1,7 +1,8 @@
 def f1(x):
     if x%2==0:
-        print("Even")
+        return "Even"
     else:
-        print("Odd")
+        return "Odd"
 n=int(input())
-f1(n)        
+result=f1(n)
+print(result)  
